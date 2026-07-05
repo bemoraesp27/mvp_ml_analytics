@@ -21,8 +21,6 @@ Validação: StratifiedKFold, métricas F1-weighted e AUC para lidar com desbala
 
 Avaliação final: comparação com baseline, matriz de confusão, análise de erros e limitações.
 
-Link para o notebook no Colab: https://colab.research.google.com/drive/1WElman4Dgb5CHQfi9mvlYZ0iYWsaeR9D?usp=sharing
-
 ## 📈 Resultados
 Baseline: AUC = 0.50, F1 ≈ 0.78 (não aprende padrões).
 
@@ -47,3 +45,5 @@ Implementar estratificação em faixas de risco (baixo, moderado, alto).
 Testar técnicas de balanceamento (SMOTE, oversampling, class_weight="balanced").
 
 Avaliar generalização em bases de diferentes regiões e períodos.
+
+Link para o notebook no Colab: [https://colab.research.google.com/drive/1WElman4Dgb5CHQfi9mvlYZ0iYWsaeR9D?usp=sharing](https://colab.research.google.com/drive/1sJFhCXzsy_u1yXuLlJ5oHVWwkIDRamWB?usp=sharing)
