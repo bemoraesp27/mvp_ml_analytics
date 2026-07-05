@@ -4,7 +4,7 @@ Este repositório contém o notebook e a base de dados utilizados no projeto de 
 
 ## 📂 Estrutura
 - `Base_acidentes.xlsx` → dataset original
-- `mvp_acidentes.ipynb` → notebook com todo o código e análises
+- `MVP_ML_Analytics_BernardoMoraes_4052025002069.ipynb` → notebook com todo o código e análises
 
 ## 🎯 Objetivo
 Construir um modelo de classificação capaz de prever a probabilidade de um acidente resultar em fatalidade, superando o baseline ingênuo.
